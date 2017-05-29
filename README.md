@@ -1,5 +1,5 @@
 ## Evolutionary Computation ##
-## Travelling-Thief-Problem ##
+## Travelling Thief Problem: Dynamic Items ##
 Author Name: Puzhi Yao
 
 Author Email: dvvvv1@hotmail.com
