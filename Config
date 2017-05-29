@@ -1,0 +1,46 @@
+% Setup folder with TTP instance files (default = "Instance").
+TTP_Instance_Folder = "instances";
+
+% Setup target instances of TTP problems that should be solved (default = "0").
+% 0 = Running all files below
+% 1 = "a280_n279_bounded-strongly-corr_01.ttp"
+% 2 = "a280_n1395_uncorr-similar-weights_05.ttp"
+% 3 = "a280_n2790_uncorr_10.ttp"
+% 4 = "fnl4461_n4460_bounded-strongly-corr_01.ttp"
+% 5 = "fnl4461_n22300_uncorr-similar-weights_05.ttp"
+% 6 = "fnl4461_n44600_uncorr_10.ttp"
+% 7 = "pla33810_n33809_bounded-strongly-corr_01.ttp"
+% 8 = "pla33810_n169045_uncorr-similar-weights_05.ttp"
+% 9 = "pla33810_n338090_uncorr_10.ttp"
+Input_Instance = "9";
+
+% Setup optimization approach chosen (default = "0").
+% 0 = Run all approach below
+% 1 = "RLS"
+% 2 = "(1+1)EA"
+% 3 = "ComplexHeuristic_1"
+% 4 = "ComplexHeuristic_2"
+Approach = "0";
+
+% Setup stopping criterion: number of evaluations without improvement (default = "10000" times).
+Number_of_Evaluation = "10000";
+
+% Setup stopping criterion: time in milliseconds (default = "10000" ms).
+Time_Limit = "10000";
+
+% Setup dynamic Item Set Mode: 
+% 1 = Generate New benchmark
+% 2 = Read from previous generated benchmark (default)
+Dynamic_Item_Mode = "2";
+
+% Setup target version of benchmark, each data sets has two dynamic item benchmark (default = "0").
+% 0 = Run both benchmarks
+% 1 = Run First version of benchmark
+% 2 = Run Second version of benchmark
+Dynamic_Item_Benchmark = "0";
+
+% Setup total number of generations per run (default = "100000").
+Generations = "100000";
+
+% Setup total number of runs (default = "10" runs)
+runs = "10";
