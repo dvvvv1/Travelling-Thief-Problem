@@ -2,7 +2,7 @@ package ttp.Utils;
 
 import java.util.Vector;
 /**
- * @author puzhiyao
+ * @author pz.yao
  * 
  */
 public class DataPool {
