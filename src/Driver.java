@@ -22,7 +22,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @author puzhiyao
+ * @author pz.yao
  * This class is adopted from original Driver created by @author wagner
  */
 public class Driver {
