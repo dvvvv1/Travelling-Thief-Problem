@@ -16,7 +16,7 @@ import ttp.Optimisation.MyOperators;
 
 /**
  * This class is designed for generating or reading Dynamic Items
- * @author puzhiyao
+ * @author pz.yao
  */
 public class TTPDynamicItems {
 	/*
