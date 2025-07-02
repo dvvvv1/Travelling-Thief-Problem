@@ -10,7 +10,7 @@ import ttp.Utils.DeepCopy;
 
 /**
  * This class is designed for finding an acceptable PackingPlan solution for the given TTP problem instance and TSP tour 
- * @author Puzhi Yao
+ * @author pz.yao
  *
  */
 public class MyOperators {
