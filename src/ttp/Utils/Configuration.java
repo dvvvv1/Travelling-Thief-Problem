@@ -9,7 +9,7 @@ import java.util.Vector;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 /**
- * @author puzhiyao
+ * @author pz.yao
  * 
  */
 public class Configuration {
